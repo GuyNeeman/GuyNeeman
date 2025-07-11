@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guyneeman&label=Profile%20views&color=0e75b6&style=flat" alt="guyneeman" /> </p>
 
-- 🔭 I’m currently working on **a website Casino**
+- 🔭 I’m currently working on **a Casino Website**
 
 - 🌱 I’m currently learning **React**
 
