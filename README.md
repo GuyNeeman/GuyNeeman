@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/guy neeman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guy neeman" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/guy neeman](https://www.linkedin.com/in/guy-neeman-55017b257/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guy neeman" height="30" width="40" /></a>
 <a href="https://instagram.com/guyneeman08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guyneeman08" height="30" width="40" /></a>
 </p>
 
