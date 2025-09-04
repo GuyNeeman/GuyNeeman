@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guyneeman&label=Profile%20views&color=0e75b6&style=flat" alt="guyneeman" /> </p>
 
-- 🔭 I’m currently working on **a Casino Website**
+- 🔭 I’m currently working on **Cool Websites**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SJava - Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://guyneeman.github.io/Portfolio/Projects](https://guyneeman.github.io/Portfolio/Projects)
 
