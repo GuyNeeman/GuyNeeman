@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cool Websites**
 
-- 🌱 I’m currently learning **SJava - Spring Boot**
+- 🌱 I’m currently learning **Java - Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://guyneeman.github.io/Portfolio/Projects](https://guyneeman.github.io/Portfolio/Projects)
 
