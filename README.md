@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java - Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://guyneeman.github.io/Portfolio/Projects](https://guyneeman.github.io/Portfolio/Projects)
+- 👨‍💻 All of my projects are available at [https://guyneeman.github.io/Portfolio/#/projects](https://guyneeman.github.io/Portfolio/#/projects)
 
 - 📫 How to reach me **guyneeman@outlook.com**
 
